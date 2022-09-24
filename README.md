@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js & Express.js**
 
-- 💬 Ask me about **React.js & Next.js**
+- 💬 Ask me about **DSA, React.js & Next.js**
 
 - 📫 How to reach me **rohanxmalik06@gmail.com**
 
