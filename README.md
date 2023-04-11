@@ -20,13 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mayank9031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank9031" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-goyal-999466209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-goyal-999466209/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mayank_9031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mayank_9031" height="30" width="40" /></a>
-<a href="https://fb.com/monti.goyal.948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="monti.goyal.948" height="30" width="40" /></a>
-<a href="https://instagram.com/montygoyal_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="montygoyal_6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayank_9031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank_9031" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/goyalmayank3971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="goyalmayank3971" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/rohanxmalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanxmalik/" height="30" width="40" /></a>
+
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
