@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
-<h1 align="center">Hy 👋, I'm Mayank Goyal</h1>
+<h1 align="center">Hy 👋, I'm Rohan Malik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,11 +12,9 @@
 
 - 👀 I’m interested in *Software Development*
 
-- 💬 Ask me about *DSA, Oops, React.js*
+- 💬 Ask me about *DSA, Oops, MERN*
 
-- 📫 How to reach me *goyalmayank397@gmail.com*
-
-- 📄 Know about my experiences [https://flowcv.com/resume/1j568mhms6](https://flowcv.com/resume/1j568mhms6)
+- 📫 How to reach me *rohanxmalik06@gmail.com*
 
 - ⚡ Fun fact *I think I am funny*
 
